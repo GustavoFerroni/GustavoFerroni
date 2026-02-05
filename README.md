@@ -62,6 +62,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GustavoFerroni&color=blue&style=flat-square)
+![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=blue&style=flat-square)
 
 </div>
