@@ -10,7 +10,7 @@
 
 <table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="50%" valign="top" >
+<td width="50%" valign="top" style="border:none;">
 
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
@@ -21,7 +21,7 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 </td>
-<td width="50%" align="center" >
+<td width="50%" align="center" style="border:none;">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="350" alt="Pixel Art"/>
 
@@ -44,11 +44,10 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoFerroni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFerroni&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoFerroni&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=GustavoFerroni&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFerroni&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
