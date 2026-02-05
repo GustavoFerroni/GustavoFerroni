@@ -44,8 +44,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="center">
 
-### 📊 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=GustavoFerroni&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFerroni&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
