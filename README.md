@@ -10,22 +10,30 @@
 
 ---
 
-Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
-Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.<br>
-Atualmente aprimorando minhas habilidades em:<br>
-HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
-<br>
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="350" alt="Matrix Code"/>
-</div>
-<br>
+Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
+
+Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.
+
+**Atualmente aprimorando minhas habilidades em:**
+
+HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="350" alt="Pixel Art"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
@@ -48,13 +56,17 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 ---
 
-
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoferroni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 
+</div>
+
 ---
-<br>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gustavoferroni&color=blue&style=flat-square)
+
 </div>
