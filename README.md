@@ -2,8 +2,6 @@
 
 # 👩🏻‍💻 Gustavo Ferroni Felipe
 
-### Estudante de Desenvolvimento de Sistemas
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;" alt="Typing SVG" />
 
 </div>
@@ -35,6 +33,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="center">
 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
@@ -44,17 +43,20 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 ---
 
+
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavoferroni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoferroni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferroni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferroni&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoferroni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=gustavoferroni&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -65,7 +67,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gustavoferroni&color=blue&style=flat-square)
 
