@@ -8,9 +8,9 @@
 
 ---
 
-<table>
+<table style="border:none; border-collapse:collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;">
 
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
@@ -21,9 +21,9 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="border:none;">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="365" alt="Pixel Art"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="350" alt="Pixel Art"/>
 
 </td>
 </tr>
@@ -32,7 +32,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 ---
 
 <div align="center">
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
@@ -43,24 +42,21 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 ---
 
-
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoferroni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoFerroni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferroni&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFerroni&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gustavoferroni&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoFerroni&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoferroni)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoFerroni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 
 </div>
@@ -69,6 +65,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gustavoferroni&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=GustavoFerroni&color=blue&style=flat-square)
 
 </div>
