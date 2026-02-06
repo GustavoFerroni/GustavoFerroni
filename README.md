@@ -9,8 +9,13 @@
 ---
 
 <div>
-  <img align="right" src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif" width="280" alt="Coding GIF"/>
-  
+  <img
+  align="right"
+  src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
+  width="250"
+  height="200"
+  alt="Coding GIF"
+/>
   <div>
     
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
