@@ -53,7 +53,8 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFerroni&theme=github_dark&utcOffset=-3"/>
+        
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=omni"/>
       </td>
     </tr>
   </table>
