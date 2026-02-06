@@ -7,9 +7,8 @@
 
 </div>
 
-# Sobre mim
+# 🎓 Sobre mim
 
-    
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
 Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.
@@ -34,7 +33,7 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
-# Principais habilidades
+# 💻 Principais habilidades
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
@@ -43,7 +42,7 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 </div>
 
-# Contatos
+# Contato
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank">
