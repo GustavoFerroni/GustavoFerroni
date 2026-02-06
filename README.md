@@ -54,7 +54,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
       </td>
       <td>
         
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=omni"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
       </td>
     </tr>
   </table>
