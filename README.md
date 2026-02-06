@@ -42,7 +42,7 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 </div>
 
-# Contato
+# 📱 Contato
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank">
