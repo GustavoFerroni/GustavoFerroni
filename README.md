@@ -10,9 +10,10 @@
 
 ## 📌 Sobre mim
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr style="border:none;">
+    <!-- TEXTO -->
+    <td width="60%" valign="top" style="border:none; padding-right:15px;">
 
 Me chamo **Gustavo Ferroni Felipe**, tenho **16 anos** e estou cursando o **2º ano do M-Tec em Desenvolvimento de Sistemas** na **ETEC Zona Leste**.
 
@@ -24,11 +25,12 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
     </td>
 
-    <td width="40%" align="center" valign="top">
+    <!-- GIF -->
+    <td width="40%" align="center" valign="top" style="border:none;">
       <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"
+        src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
         width="300"
-        alt="Pixel Art"
+        alt="Coding GIF"
       />
     </td>
   </tr>
@@ -43,12 +45,12 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+    <tr style="border:none;">
+      <td style="border:none;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
       </td>
-      <td>
+      <td style="border:none;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
       </td>
     </tr>
@@ -68,7 +70,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 ---
 
-## 🔗 Contato & Redes
+## 🔗 Contato
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank">
