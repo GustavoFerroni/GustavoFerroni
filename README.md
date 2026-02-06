@@ -8,9 +8,9 @@
 
 ---
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none; padding: 0;">
 
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
@@ -21,13 +21,14 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: none; padding: 0;">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="300" alt="Pixel Art"/>
-  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="350" alt="Pixel Art"/>
+
 </td>
 </tr>
 </table>
+
 
 ---
 
