@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩🏻‍💻 Gustavo Ferroni Felipe
+# 👨‍💻 Gustavo Ferroni Felipe
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;" alt="Typing SVG" />
 
