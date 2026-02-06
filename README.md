@@ -65,10 +65,24 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoFerroni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferroni-b84491395/)
+<a href="https://github.com/GustavoFerroni" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:gustavoffelipe13012010@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Gmail"/>
+</a>
 
 </div>
+
 
 ---
 
