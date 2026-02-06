@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=👨‍💻+Gustavo+Ferroni+Felipe;🎓+Estudante+de+programação" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=👨‍💻+Gustavo+Ferroni+Felipe;💻+Estudante+de+programação" alt="Typing SVG" />
 
 </div>
 
-# 🎓 Sobre mim
+# 🎓Sobre mim
 
 Sou Gustavo, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
