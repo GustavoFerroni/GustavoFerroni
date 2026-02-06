@@ -9,7 +9,7 @@
 
 # 🎓 Sobre mim
 
-Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
+Me chamo Gustavo Ferroni, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
 Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.
 
