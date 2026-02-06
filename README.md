@@ -39,15 +39,12 @@ Atualmente aprimorando minhas habilidades em:
   <a href="https://github.com/GustavoFerroni" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.instagram.com/oggustxz" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gustavoffelipe13012010@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
   </a>
