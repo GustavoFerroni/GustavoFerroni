@@ -2,7 +2,7 @@
 
 # 👨‍💻 Gustavo Ferroni Felipe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9CA3AF&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;" alt="Typing SVG" />
 
 </div>
 
@@ -43,23 +43,23 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 ---
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=omni"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoFerroni&theme=omni"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoFerroni&theme=github_dark"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=omni"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFerroni&theme=dracula&utcOffset=-3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFerroni&theme=github_dark&utcOffset=-3"/>
 </div>
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoFerroni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferroni-b84491395/)
+[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoFerroni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferroni-b84491395/)
 
 </div>
 
@@ -67,6 +67,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <div align="left">
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=blue&style=flat-square)
+![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=6B7280&style=flat-square)
 
 </div>
