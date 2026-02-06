@@ -6,7 +6,7 @@
 
 </div>
 
-<div style="height:0.5px; background-color:#21262d; margin:28px 0;"></div>
+---
 
 <img
   align="right"
@@ -25,8 +25,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 <br clear="right"/>
 
-<div style="height:1px; background-color:#30363d; margin:32px 0;"></div>
-
+---
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
@@ -45,7 +44,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
   </table>
 </div>
 
-<div style="height:1px; background-color:#30363d; margin:32px 0;"></div>
+---
 
 <div align="center">
 
@@ -56,7 +55,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
 </div>
 
-<div style="height:1px; background-color:#30363d; margin:32px 0;"></div>
+---
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/></a>
@@ -66,7 +65,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
   <a href="mailto:gustavoffelipe13012010@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Gmail"/></a>
 </div>
 
-<div style="height:1px; background-color:#30363d; margin:32px 0;"></div>
+---
 
 <div align="left">
 
