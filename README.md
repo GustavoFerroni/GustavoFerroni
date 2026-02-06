@@ -35,23 +35,21 @@ Atualmente aprimorando minhas habilidades em:
 
 # 📱 Contato
 
-<div align="center">
-  <a href="https://github.com/GustavoFerroni" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" style="display:block"/>
+<p align="center">
+  <a href="https://github.com/GustavoFerroni">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
   </a>
+  <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+  </a>
+  <a href="https://www.instagram.com/oggustxz">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
+  </a>
+  <a href="mailto:gustavoffelipe13012010@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
+  </a>
+</p>
 
-  <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" style="display:block"/>
-  </a>
-
-  <a href="https://www.instagram.com/oggustxz" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45" style="display:block"/>
-  </a>
-
-  <a href="mailto:gustavoffelipe13012010@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" style="display:block"/>
-  </a>
-</div>
 
 
 <br>
