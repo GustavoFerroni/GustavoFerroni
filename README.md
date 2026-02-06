@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=header" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6302D1&center=true&vCenter=true&width=700&lines=👨‍💻+Gustavo+Ferroni+Felipe;🎓+Estudante+de+programação" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=👨‍💻+Gustavo+Ferroni+Felipe;🎓+Estudante+de+programação" alt="Typing SVG" />
 
 </div>
 
@@ -64,4 +64,5 @@ Atualmente aprimorando minhas habilidades em:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=footer&reversal=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer" width="100%">
+
