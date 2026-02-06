@@ -12,8 +12,8 @@
   <img
   align="right"
   src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
-  width="250"
-  height="200"
+  width="280"
+  height="280"
   alt="Coding GIF"
 />
   <div>
