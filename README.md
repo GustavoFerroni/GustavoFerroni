@@ -8,12 +8,12 @@
 
 ---
 
-## 📌 Sobre mim
-
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr style="border:none;">
-    <!-- TEXTO -->
-    <td width="60%" valign="top" style="border:none; padding-right:15px;">
+<img
+  align="right"
+  src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
+  width="320"
+  alt="Coding GIF"
+/>
 
 Me chamo **Gustavo Ferroni Felipe**, tenho **16 anos** e estou cursando o **2º ano do M-Tec em Desenvolvimento de Sistemas** na **ETEC Zona Leste**.
 
@@ -23,43 +23,20 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 
 HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
-    </td>
-
-    <!-- GIF -->
-    <td width="40%" align="center" valign="top" style="border:none;">
-      <img
-        src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
-        width="300"
-        alt="Coding GIF"
-      />
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
-
-## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-    <tr style="border:none;">
-      <td style="border:none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
-      </td>
-      <td style="border:none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
 ---
-
-## 🧠 Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
@@ -69,8 +46,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 </div>
 
 ---
-
-## 🔗 Contato
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank">
