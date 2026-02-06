@@ -16,8 +16,8 @@
   height="250"
   alt="Coding GIF"
 />
+  
   <div>
-  #Sobre mim
     
 Me chamo Gustavo Ferroni Felipe, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
 
