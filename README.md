@@ -6,7 +6,7 @@
 
 </div>
 
-<div style="height:1px; background-color:#30363d; margin:32px 0;"></div>
+<div style="height:0.5px; background-color:#21262d; margin:28px 0;"></div>
 
 <img
   align="right"
