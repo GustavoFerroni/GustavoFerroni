@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
 <div align="center">
 
 # 👨‍💻 Gustavo Ferroni Felipe
