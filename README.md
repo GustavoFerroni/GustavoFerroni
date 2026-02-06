@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
+
 <div align="center">
 
 # 👨‍💻 Gustavo Ferroni Felipe
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9CA3AF&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;" alt="Typing SVG" />
 
 </div>
 
@@ -17,16 +16,7 @@ Atualmente aprimorando minhas habilidades em:
 
 *HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital*
 
-  </div>
-</div>
-
-<br clear="both"/>
-
 <br>
-
-<div align="center">
-  
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
@@ -54,6 +44,10 @@ Atualmente aprimorando minhas habilidades em:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gustavoffelipe13012010@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
   </a>
@@ -64,4 +58,5 @@ Atualmente aprimorando minhas habilidades em:
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=6B7280&style=flat-square)
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=footer&reversal=false" width=100%>
