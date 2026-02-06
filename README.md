@@ -25,7 +25,7 @@ Atualmente aprimorando minhas habilidades em:
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
+  
 </div>
 
 <div align="center">
