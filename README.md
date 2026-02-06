@@ -13,7 +13,7 @@
   align="right"
   src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
   width="280"
-  height="250"
+  height="240"
   alt="Coding GIF"
 />
   
