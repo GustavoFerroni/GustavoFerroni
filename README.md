@@ -48,10 +48,12 @@ Atualmente aprimorando minhas habilidades em:
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gustavoffelipe13012010@gmail.com">
+  <a href="mailto:gustavoffelipe13012010@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
   </a>
 </div>
+
+<br>
 
 <div align="left">
   
