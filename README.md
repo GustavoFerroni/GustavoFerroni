@@ -43,7 +43,7 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
----
+# Principais habilidades
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
@@ -52,7 +52,7 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 </div>
 
----
+# Contatos
 
 <div align="center">
   <a href="https://github.com/GustavoFerroni" target="_blank">
