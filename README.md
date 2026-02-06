@@ -31,7 +31,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 </div>
 
 <div align="center">
-  <table>
     <tr>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
@@ -41,7 +40,6 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
       </td>
     </tr>
-  </table>
 </div>
 
 ---
