@@ -8,13 +8,11 @@
 
 ---
 
-<img
-  align="right"
-  src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif"
-  width="320"
-  alt="Coding GIF"
-/>
-
+<div>
+  <img align="right" src="https://media0.giphy.com/media/JUwa2qSoTwcxv0gFJh/giphy.gif" width="320" alt="Coding GIF"/>
+  
+  <div>
+    
 Me chamo **Gustavo Ferroni Felipe**, tenho **16 anos** e estou cursando o **2º ano do M-Tec em Desenvolvimento de Sistemas** na **ETEC Zona Leste**.
 
 Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.
@@ -23,7 +21,10 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 
 HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 
-<br clear="right"/>
+  </div>
+</div>
+
+<br clear="both"/>
 
 ---
 
@@ -64,7 +65,7 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 ---
 
 <div align="left">
-
+  
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=6B7280&style=flat-square)
 
 </div>
