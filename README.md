@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 Gustavo Ferroni Felipe
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6302D1&center=true&vCenter=true&width=700&lines=👨‍💻+Gustavo+Ferroni+Felipe;🎓+Estudante+de+programação" alt="Typing SVG" />
 
 </div>
 
