@@ -45,11 +45,22 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
 </div>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFerroni&theme=github_dark&utcOffset=-3"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
