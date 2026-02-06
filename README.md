@@ -74,3 +74,4 @@ Atualmente aprimorando minhas habilidades em:
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=GustavoFerroni&label=Visitas%20no%20perfil&color=6B7280&style=flat-square)
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=footer&reversal=false" width=100%>
