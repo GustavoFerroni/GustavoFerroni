@@ -31,6 +31,7 @@ Atualmente aprimorando minhas habilidades em:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
 # 💻 Principais habilidades
