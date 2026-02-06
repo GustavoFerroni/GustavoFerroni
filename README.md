@@ -6,12 +6,22 @@
 
 </div>
 
+<!-- GIF CENTRAL (NOVO) -->
+<div align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"
+    width="260"
+    alt="Pixel Art Central"
+  />
+</div>
+
 ---
 
+<!-- GIF À DIREITA (ANTIGO, MANTIDO) -->
 <img
   align="right"
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6bzd5djZoajZwZ3BwYmZjOHRsNmwxMXEwMmdsa3hoZnhmazZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"
-  width="350"
+  width="320"
   alt="Pixel Art"
 />
 
@@ -26,20 +36,22 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 <br clear="right"/>
 
 ---
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFerroni&theme=github_dark"/>
 </div>
 
 <div align="center">
+  <table>
     <tr>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoFerroni&theme=github_dark"/>
       </td>
       <td>
-        
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoFerroni&theme=github_dark"/>
       </td>
     </tr>
+  </table>
 </div>
 
 ---
@@ -56,11 +68,17 @@ HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital
 ---
 
 <div align="center">
-  <a href="https://github.com/GustavoFerroni" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/></a>
+  <a href="https://github.com/GustavoFerroni" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gustavoffelipe13012010@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Gmail"/></a>
+  <a href="mailto:gustavoffelipe13012010@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Gmail"/>
+  </a>
 </div>
 
 ---
