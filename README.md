@@ -14,7 +14,7 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 
 Atualmente aprimorando minhas habilidades em:
 
-*HTML • CSS • JavaScript • Java • Desenvolvimento Web • Design Digital*
+*• Desenvolvimento de sistemas • Banco de dados • Programação web*
 
 <br>
 
