@@ -35,6 +35,10 @@ Atualmente aprimorando minhas habilidades em:
   </a>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
 </div>
 
 # 📱 Contato
@@ -54,8 +58,6 @@ Atualmente aprimorando minhas habilidades em:
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
 <br>
 <br>
 
@@ -66,4 +68,3 @@ Atualmente aprimorando minhas habilidades em:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer" width="100%">
-
