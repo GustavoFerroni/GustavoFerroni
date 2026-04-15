@@ -34,6 +34,8 @@ Atualmente aprimorando minhas habilidades em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <img src="https://techicons.dev/icons/kotlin" height="50">
 </div>
 
 # 📱 Contato
