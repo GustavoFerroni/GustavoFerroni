@@ -14,7 +14,7 @@ Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver nov
 
 Atualmente aprimorando minhas habilidades em:
 
-*• Desenvolvimento de sistemas • Banco de dados • Programação web *
+*• Desenvolvimento de sistemas • Banco de dados • Programação web*
 
 <br>
 
