@@ -8,7 +8,7 @@
 
 # 🎓Sobre mim
 
-Sou Gustavo, tenho 16 anos e estou cursando o 2º ano do M-Tec em Desenvolvimento de Sistemas na ETEC Zona Leste.
+Sou Gustavo, tenho 16 anos e estou cursando o 2º no curso de Desenvolvimento de Sistemas da ETEC Zona Leste.
 
 Sempre buscando aprender mais sobre tecnologia, tentando criar e desenvolver novos projetos.
 
@@ -49,9 +49,6 @@ Atualmente aprimorando minhas habilidades em:
     </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gustavo-ferroni-b84491395/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
-    </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/oggustxz">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:gustavoffelipe13012010@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
